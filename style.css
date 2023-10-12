@@ -1,0 +1,19 @@
+/*header{ 
+    top: 0;
+    display: flex;}
+    div{padding-bottom:0rem;}*/
+.bgmountain{background-image: url("img/montagne.jpg");}
+body{font-family: Arial, Helvetica, sans-serif;;}
+.gras{font-weight: bold;}
+nav a {text-decoration: none;
+    color: #ce4425;
+    display: inline-block;
+padding: 10px;}
+a:hover{color: bisque;
+text-decoration: underline;
+background-color: #c85137;}
+
+nav ul{list-style-type: none;
+    position: sticky;}
+nav ul li {display: inline-block;
+padding-right: 1.5rem;}
